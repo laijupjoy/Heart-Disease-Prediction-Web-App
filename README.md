@@ -8,9 +8,8 @@ It can perform prediction of heart disease based on required features mentioned 
 
   
 ## Installation Screenshots
-
-
 - All Directories
+
 ![](all_files.jpg)
 
 - Created Model Result

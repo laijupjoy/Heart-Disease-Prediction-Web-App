@@ -30,7 +30,7 @@ Deployed this project to GCP
   
 ## Tech Stack
 
-**Prpgramming Language:** Python
+**Programming Language:** Python
 
 **Libraries:** tensorflow,numpy,scikit-learn,pandas
 

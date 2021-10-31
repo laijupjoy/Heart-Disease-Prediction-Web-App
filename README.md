@@ -32,7 +32,7 @@ Deployed this project to GCP
 
 **Prpgramming Language:** Python
 
-**Libraries:**
+**Libraries:** tensorflow,numpy,scikit-learn,pandas
 
 **API:** Flask
 

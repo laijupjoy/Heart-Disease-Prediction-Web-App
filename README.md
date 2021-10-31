@@ -11,8 +11,8 @@ It can perform prediction of heart disease based on required features mentioned 
 - All Directories
 
 ![](all_files.jpg)
-
 - Created Model Result
+
 ![](model_analysis.jpg)
 
 - Web App Working on Local Host
